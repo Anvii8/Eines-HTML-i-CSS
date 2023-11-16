@@ -64,12 +64,9 @@ a{
     text-decoration: none;
 }
 
-
 body{
     font-family: Verdana, Tahoma, sans-serif;
     color: rgb(43, 52, 69);
-    min-height: 100vh;
-    margin: 0;
 }
 
 .title1{
