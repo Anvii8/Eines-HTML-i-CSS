@@ -198,5 +198,14 @@ img {
 @media only screen and (min-width: 600px) {
     .listaheader{
         flex-direction: row;
+        width: 100%;
+    }
+    .listaheader a {
+        border-bottom: none;
+        border-right: 1px solid #ddd;
+    }
+
+    .listaheader a:last-child {
+        border-right: none;
     }
 }
