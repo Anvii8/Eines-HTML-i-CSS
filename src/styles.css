@@ -29,7 +29,8 @@ header nav a:hover{
     justify-content: center;
     list-style: none;
     text-align: center;
-    font-size: 1em;
+    flex-direction: row;
+    font-size: 0.8em;
     font-weight: 600;
     line-height: 35px;
     margin-top: 20px;
@@ -170,12 +171,5 @@ img {
 
     .listaheader a{
         width: 100%;
-    }
-}
-
-@media only screen and (min-width: 600px) {
-    .listaheader{
-        flex-direction: row;
-        font-size: 0.8em;
     }
 }
