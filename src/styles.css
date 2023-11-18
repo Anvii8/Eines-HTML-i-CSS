@@ -182,15 +182,21 @@ img {
     height: auto;
 }
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 599px) {
     .listaheader {
         flex-direction: column;
         align-items: center;
         text-align: center;
-        margin-left: 30px;
+        margin-left: 40px;
     }
 
     .listaheader a{
         width: 100%;
+    }
+}
+
+@media only screen and (min-width: 600px) {
+    .listaheader{
+        flex-direction: row;
     }
 }
