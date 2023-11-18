@@ -38,28 +38,6 @@ header nav a:hover{
     margin-right: auto;
 }
 
-details {
-    margin-right: 40px;
-    display: inline-block;
-}
-
-summary{
-    cursor: pointer;
-}
-
-.desplegable{
-    list-style: none;
-    padding: 0;
-    margin: 0;
-    display: flex;
-    position: absolute;
-    flex-direction: column;
-}
-
-.elem{
-    margin-right: auto;
-}
-
 a{
     text-decoration: none;
 }
@@ -198,5 +176,6 @@ img {
 @media only screen and (min-width: 600px) {
     .listaheader{
         flex-direction: row;
+        font-size: 0.8em;
     }
 }
