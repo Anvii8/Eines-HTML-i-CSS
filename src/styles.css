@@ -185,7 +185,5 @@ img {
 @media only screen and (max-width: 600px) {
     .listaheader {
         flex-direction: column;
-        justify-content: center;
     }
-
 }
