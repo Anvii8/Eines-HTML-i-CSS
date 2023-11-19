@@ -96,7 +96,7 @@
 110C:\Users\alber\Documents\Eines HTML i CSS\PEC1\node_modules\posthtml\node_modules\posthtml-parser\package.json133444502103761565 0
 84C:\Users\alber\Documents\Eines HTML i CSS\PEC1\node_modules\abortcontroller-polyfill133444530052029963 1
 97C:\Users\alber\Documents\Eines HTML i CSS\PEC1\node_modules\es-abstract\2023\Number\bitwiseAND.js133444506961365590 0
-51C:\Users\alber\Documents\Eines HTML i CSS\PEC1\dist133448596706049172 1
+51C:\Users\alber\Documents\Eines HTML i CSS\PEC1\dist133448602313678697 1
 88C:\Users\alber\Documents\Eines HTML i CSS\PEC1\node_modules\tailwindcss\src\cli\index.js133444512965964256 0
 66C:\Users\alber\Documents\Eines HTML i CSS\PEC1\node_modules\@babel133444530019968684 1
 103C:\Users\alber\Documents\Eines HTML i CSS\PEC1\node_modules\update-browserslist-db\check-npm-version.js133444502081842152 0
@@ -170,7 +170,7 @@
 94C:\Users\alber\Documents\Eines HTML i CSS\PEC1\node_modules\which-boxed-primitive\package.json133444506959254759 0
 85C:\Users\alber\Documents\Eines HTML i CSS\PEC1\node_modules\is-arrayish\.istanbul.yml133444502082587885 0
 68C:\Users\alber\Documents\Eines HTML i CSS\PEC1\node_modules\svgo\lib133444530124995446 1
-57C:\Users\alber\Documents\Eines HTML i CSS\PEC1\src\app.js133448596174540538 0
+57C:\Users\alber\Documents\Eines HTML i CSS\PEC1\src\app.js133448602013591996 0
 87C:\Users\alber\Documents\Eines HTML i CSS\PEC1\node_modules\svgo\plugins\mergeStyles.js133444502086827726 0
 114C:\Users\alber\Documents\Eines HTML i CSS\PEC1\node_modules\path-scurry\node_modules\lru-cache\dist\esm\index.d.ts133444506960389661 0
 77C:\Users\alber\Documents\Eines HTML i CSS\PEC1\node_modules\binary-extensions133444530053511390 1
@@ -262,6 +262,7 @@
 112C:\Users\alber\Documents\Eines HTML i CSS\PEC1\node_modules\@parcel\runtime-js\lib\helpers\browser\css-loader.js133444502100985268 0
 82C:\Users\alber\Documents\Eines HTML i CSS\PEC1\node_modules\available-typed-arrays133444530053231148 1
 73C:\Users\alber\Documents\Eines HTML i CSS\PEC1\node_modules\parent-module133444530109534462 1
+73C:\Users\alber\Documents\Eines HTML i CSS\PEC1\dist\index.0374031d.js.map133448602313668688 0
 136C:\Users\alber\Documents\Eines HTML i CSS\PEC1\node_modules\msgpackr-extract\node_modules\.bin\node-gyp-build-optional-packages-test.cmd133444502111421351 0
 89C:\Users\alber\Documents\Eines HTML i CSS\PEC1\node_modules\es-abstract\2022\substring.js133444506967467222 0
 91C:\Users\alber\Documents\Eines HTML i CSS\PEC1\node_modules\yaml\dist\schema\core\schema.js133444512965483818 0
@@ -277,7 +278,7 @@
 125C:\Users\alber\Documents\Eines HTML i CSS\PEC1\node_modules\foreground-child\node_modules\cross-spawn\lib\util\readShebang.js133444506959044577 0
 88C:\Users\alber\Documents\Eines HTML i CSS\PEC1\node_modules\typed-array-byte-length\test133444530130381624 1
 71C:\Users\alber\Documents\Eines HTML i CSS\PEC1\node_modules\ansi-styles133444530052205163 1
-72C:\Users\alber\Documents\Eines HTML i CSS\PEC1\dist\portada.25b8fef6.png133448596702476057 0
+72C:\Users\alber\Documents\Eines HTML i CSS\PEC1\dist\portada.25b8fef6.png133448602310294840 0
 84C:\Users\alber\Documents\Eines HTML i CSS\PEC1\node_modules\postcss\lib\postcss.d.ts133444512964542079 0
 78C:\Users\alber\Documents\Eines HTML i CSS\PEC1\node_modules\tslib\package.json133444502082858137 0
 77C:\Users\alber\Documents\Eines HTML i CSS\PEC1\node_modules\read-pkg\index.js133444506957923413 0
@@ -618,7 +619,7 @@
 80C:\Users\alber\Documents\Eines HTML i CSS\PEC1\node_modules\tailwindcss\base.css133444512964006545 0
 96C:\Users\alber\Documents\Eines HTML i CSS\PEC1\node_modules\es-abstract\2019\thisBooleanValue.js133444506967658099 0
 65C:\Users\alber\Documents\Eines HTML i CSS\PEC1\node_modules\fastq133444530090154562 1
-62C:\Users\alber\Documents\Eines HTML i CSS\PEC1\dist\index.html133448596706009130 0
+62C:\Users\alber\Documents\Eines HTML i CSS\PEC1\dist\index.html133448602313638659 0
 106C:\Users\alber\Documents\Eines HTML i CSS\PEC1\node_modules\wrap-ansi-cjs\node_modules\ansi-regex\index.js133444506957933421 0
 92C:\Users\alber\Documents\Eines HTML i CSS\PEC1\node_modules\es-abstract\2017\IteratorNext.js133444506964964854 0
 91C:\Users\alber\Documents\Eines HTML i CSS\PEC1\node_modules\caniuse-lite\data\regions\UG.js133444502094039450 0
@@ -1886,7 +1887,6 @@
 96C:\Users\alber\Documents\Eines HTML i CSS\PEC1\node_modules\csso\cjs\replace\property\border.cjs133444502083663937 0
 79C:\Users\alber\Documents\Eines HTML i CSS\PEC1\node_modules\postcss\lib\list.js133444512963936463 0
 83C:\Users\alber\Documents\Eines HTML i CSS\PEC1\node_modules\yaml\dist\nodes\toJS.js133444512965744062 0
-69C:\Users\alber\Documents\Eines HTML i CSS\PEC1\dist\index.2865d736.js133448596706009130 0
 88C:\Users\alber\Documents\Eines HTML i CSS\PEC1\node_modules\yaml\dist\nodes\YAMLMap.d.ts133444512966445792 0
 91C:\Users\alber\Documents\Eines HTML i CSS\PEC1\node_modules\caniuse-lite\data\regions\IR.js133444502092168811 0
 92C:\Users\alber\Documents\Eines HTML i CSS\PEC1\node_modules\resolve\test\module_dir\ymodules133444530114683111 1
@@ -2307,7 +2307,7 @@
 94C:\Users\alber\Documents\Eines HTML i CSS\PEC1\node_modules\rimraf\dist\esm\rimraf-native.d.ts133444506961315544 0
 113C:\Users\alber\Documents\Eines HTML i CSS\PEC1\node_modules\css-select\node_modules\entities\lib\esm\index.js.map133444502104043903 0
 90C:\Users\alber\Documents\Eines HTML i CSS\PEC1\node_modules\which-typed-array\package.json133444506959244753 0
-74C:\Users\alber\Documents\Eines HTML i CSS\PEC1\dist\index.765f7192.css.map133448596706039157 0
+74C:\Users\alber\Documents\Eines HTML i CSS\PEC1\dist\index.765f7192.css.map133448602313668688 0
 99C:\Users\alber\Documents\Eines HTML i CSS\PEC1\node_modules\resolve\test\resolver\same_names\foo.js133444506960379643 0
 102C:\Users\alber\Documents\Eines HTML i CSS\PEC1\node_modules\@swc\helpers\cjs\_wrap_async_generator.cjs133444502088088985 0
 101C:\Users\alber\Documents\Eines HTML i CSS\PEC1\node_modules\tailwindcss\src\oxide\cli\build\plugin.ts133444512966923047 0
@@ -2327,7 +2327,6 @@
 96C:\Users\alber\Documents\Eines HTML i CSS\PEC1\node_modules\es-abstract\2023\Number\remainder.js133444506966536360 0
 116C:\Users\alber\Documents\Eines HTML i CSS\PEC1\node_modules\sucrase\dist\types\util\removeMaybeImportAttributes.d.ts133444512966185560 0
 97C:\Users\alber\Documents\Eines HTML i CSS\PEC1\node_modules\which-typed-array\.github\FUNDING.yml133444506959689004 0
-73C:\Users\alber\Documents\Eines HTML i CSS\PEC1\dist\index.2865d736.js.map133448596706039157 0
 107C:\Users\alber\Documents\Eines HTML i CSS\PEC1\node_modules\@parcel\core\test\fixtures\main-format-mismatch133444530026041259 1
 77C:\Users\alber\Documents\Eines HTML i CSS\PEC1\node_modules\has-proto\LICENSE133444506957893398 0
 83C:\Users\alber\Documents\Eines HTML i CSS\PEC1\node_modules\to-regex-range\index.js133444502081832133 0
@@ -3858,7 +3857,7 @@
 107C:\Users\alber\Documents\Eines HTML i CSS\PEC1\node_modules\string.prototype.trimend\test\implementation.js133444506959124648 0
 98C:\Users\alber\Documents\Eines HTML i CSS\PEC1\node_modules\es-abstract\2022\ArraySpeciesCreate.js133444506961135376 0
 98C:\Users\alber\Documents\Eines HTML i CSS\PEC1\node_modules\string.prototype.trimend\test\index.js133444506959374878 0
-70C:\Users\alber\Documents\Eines HTML i CSS\PEC1\dist\index.765f7192.css133448596706009130 0
+70C:\Users\alber\Documents\Eines HTML i CSS\PEC1\dist\index.765f7192.css133448602313638659 0
 98C:\Users\alber\Documents\Eines HTML i CSS\PEC1\node_modules\string.prototype.trimend\test\tests.js133444506959729042 0
 83C:\Users\alber\Documents\Eines HTML i CSS\PEC1\node_modules\nullthrows\package.json133444502086617535 0
 91C:\Users\alber\Documents\Eines HTML i CSS\PEC1\node_modules\es-abstract\helpers\callBind.js133444506961576618 0
@@ -5739,7 +5738,7 @@
 90C:\Users\alber\Documents\Eines HTML i CSS\PEC1\node_modules\is-shared-array-buffer\LICENSE133444506958323786 0
 93C:\Users\alber\Documents\Eines HTML i CSS\PEC1\node_modules\@swc\helpers\cjs\_export_star.cjs133444502087052992 0
 92C:\Users\alber\Documents\Eines HTML i CSS\PEC1\node_modules\es-abstract\2023\DateFromTime.js133444506962449165 0
-68C:\Users\alber\Documents\Eines HTML i CSS\PEC1\dist\presentacio.html133448596706009130 0
+68C:\Users\alber\Documents\Eines HTML i CSS\PEC1\dist\presentacio.html133448602313638659 0
 81C:\Users\alber\Documents\Eines HTML i CSS\PEC1\node_modules\lmdb\dependencies\lz4133444530102731478 1
 85C:\Users\alber\Documents\Eines HTML i CSS\PEC1\node_modules\lmdb\dependencies\lz4\lib133444530102881608 1
 97C:\Users\alber\Documents\Eines HTML i CSS\PEC1\node_modules\csso\node_modules\css-tree\lib\walker133444530071835648 1
@@ -7104,7 +7103,7 @@
 91C:\Users\alber\Documents\Eines HTML i CSS\PEC1\node_modules\caniuse-lite\data\regions\VN.js133444502094150199 0
 90C:\Users\alber\Documents\Eines HTML i CSS\PEC1\node_modules\es-abstract\2023\Number\add.js133444506960755032 0
 97C:\Users\alber\Documents\Eines HTML i CSS\PEC1\node_modules\es-abstract\2023\Number\bitwiseXOR.js133444506961465704 0
-69C:\Users\alber\Documents\Eines HTML i CSS\PEC1\dist\detallesOlej.html133448596706009130 0
+69C:\Users\alber\Documents\Eines HTML i CSS\PEC1\dist\detallesOlej.html133448602313638659 0
 84C:\Users\alber\Documents\Eines HTML i CSS\PEC1\node_modules\@parcel\packager-css\src133444530037071922 1
 93C:\Users\alber\Documents\Eines HTML i CSS\PEC1\node_modules\es-abstract\2023\Number\divide.js133444506962834547 0
 91C:\Users\alber\Documents\Eines HTML i CSS\PEC1\node_modules\caniuse-lite\data\regions\SM.js133444502093704429 0
@@ -7519,7 +7518,7 @@
 97C:\Users\alber\Documents\Eines HTML i CSS\PEC1\node_modules\@swc\helpers\_\_defaults\package.json133444502090266097 0
 98C:\Users\alber\Documents\Eines HTML i CSS\PEC1\node_modules\es-abstract\2021\ValidateTypedArray.js133444506969334236 0
 92C:\Users\alber\Documents\Eines HTML i CSS\PEC1\node_modules\es-abstract\2021\WeakRefDeref.js133444506969364258 0
-68C:\Users\alber\Documents\Eines HTML i CSS\PEC1\dist\detallesMax.html133448596706009130 0
+68C:\Users\alber\Documents\Eines HTML i CSS\PEC1\dist\detallesMax.html133448602313638659 0
 103C:\Users\alber\Documents\Eines HTML i CSS\PEC1\node_modules\@parcel\packager-wasm\src\wasm-sourcemap.js133444502100254584 0
 87C:\Users\alber\Documents\Eines HTML i CSS\PEC1\node_modules\es-abstract\2021\WeekDay.js133444506969394298 0
 96C:\Users\alber\Documents\Eines HTML i CSS\PEC1\node_modules\es-abstract\2019\RawBytesToNumber.js133444506966361160 0
@@ -8704,7 +8703,7 @@
 90C:\Users\alber\Documents\Eines HTML i CSS\PEC1\node_modules\csso\cjs\clean\Declaration.cjs133444502084109395 0
 84C:\Users\alber\Documents\Eines HTML i CSS\PEC1\node_modules\csso\cjs\clean\index.cjs133444502084469726 0
 83C:\Users\alber\Documents\Eines HTML i CSS\PEC1\node_modules\csso\cjs\clean\Rule.cjs133444502085161163 0
-66C:\Users\alber\Documents\Eines HTML i CSS\PEC1\dist\categoria.html133448596706009130 0
+66C:\Users\alber\Documents\Eines HTML i CSS\PEC1\dist\categoria.html133448602313638659 0
 91C:\Users\alber\Documents\Eines HTML i CSS\PEC1\node_modules\csso\cjs\clean\TypeSelector.cjs133444502085281271 0
 84C:\Users\alber\Documents\Eines HTML i CSS\PEC1\node_modules\csso\cjs\clean\utils.cjs133444502085381350 0
 89C:\Users\alber\Documents\Eines HTML i CSS\PEC1\node_modules\csso\cjs\clean\WhiteSpace.cjs133444502085621569 0
@@ -10452,7 +10451,7 @@
 125C:\Users\alber\Documents\Eines HTML i CSS\PEC1\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\removeViewBox.js133444502087052992 0
 123C:\Users\alber\Documents\Eines HTML i CSS\PEC1\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\removeXMLNS.js133444502087083037 0
 122C:\Users\alber\Documents\Eines HTML i CSS\PEC1\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\reusePaths.js133444502087153097 0
-76C:\Users\alber\Documents\Eines HTML i CSS\PEC1\dist\KatDennings.0b196d60.png133448596702446032 0
+76C:\Users\alber\Documents\Eines HTML i CSS\PEC1\dist\KatDennings.0b196d60.png133448602310294840 0
 128C:\Users\alber\Documents\Eines HTML i CSS\PEC1\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\sortDefsChildren.js133444502087203142 0
 137C:\Users\alber\Documents\Eines HTML i CSS\PEC1\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\pseudo\slotted.js133444502088209093 0
 128C:\Users\alber\Documents\Eines HTML i CSS\PEC1\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\_applyTransforms.js133444502082157499 0
@@ -10565,6 +10564,7 @@
 136C:\Users\alber\Documents\Eines HTML i CSS\PEC1\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\node\MediaFeature.js133444502087603492 0
 134C:\Users\alber\Documents\Eines HTML i CSS\PEC1\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\node\MediaQuery.js133444502087633532 0
 138C:\Users\alber\Documents\Eines HTML i CSS\PEC1\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\node\MediaQueryList.js133444502087653554 0
+69C:\Users\alber\Documents\Eines HTML i CSS\PEC1\dist\index.0374031d.js133448602313638659 0
 127C:\Users\alber\Documents\Eines HTML i CSS\PEC1\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\node\Nth.js133444502087803671 0
 130C:\Users\alber\Documents\Eines HTML i CSS\PEC1\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\node\Number.js133444502087853728 0
 129C:\Users\alber\Documents\Eines HTML i CSS\PEC1\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\create.js133444502084719958 0
@@ -10874,7 +10874,7 @@
 90C:\Users\alber\Documents\Eines HTML i CSS\PEC1\node_modules\@parcel\graph\test\integration133444530027432856 1
 94C:\Users\alber\Documents\Eines HTML i CSS\PEC1\node_modules\@parcel\graph\src\AdjacencyList.js133444502091888303 0
 93C:\Users\alber\Documents\Eines HTML i CSS\PEC1\node_modules\@parcel\graph\src\ContentGraph.js133444502091948362 0
-64C:\Users\alber\Documents\Eines HTML i CSS\PEC1\dist\enlaces.html133448596706009130 0
+64C:\Users\alber\Documents\Eines HTML i CSS\PEC1\dist\enlaces.html133448602313638659 0
 94C:\Users\alber\Documents\Eines HTML i CSS\PEC1\node_modules\@parcel\graph\src\shared-buffer.js133444502092008419 0
 86C:\Users\alber\Documents\Eines HTML i CSS\PEC1\node_modules\@parcel\graph\src\types.js133444502092018416 0
 94C:\Users\alber\Documents\Eines HTML i CSS\PEC1\node_modules\@parcel\graph\lib\AdjacencyList.js133444502091868271 0
@@ -11288,11 +11288,11 @@
 67C:\Users\alber\Documents\Eines HTML i CSS\PEC1\img\JonathanKite.png133446244526511747 0
 58C:\Users\alber\Documents\Eines HTML i CSS\PEC1\img\max.png133445454984950185 0
 62C:\Users\alber\Documents\Eines HTML i CSS\PEC1\img\portada.png133444553713491382 0
-74C:\Users\alber\Documents\Eines HTML i CSS\PEC1\dist\BethBehrs.0536f76b.png133448596702476057 0
-73C:\Users\alber\Documents\Eines HTML i CSS\PEC1\dist\caroline.5b4da568.png133448596704864541 0
-73C:\Users\alber\Documents\Eines HTML i CSS\PEC1\dist\detallesCaroline.html133448596706009130 0
-69C:\Users\alber\Documents\Eines HTML i CSS\PEC1\dist\img2.9c9de359.png133448596704864541 0
-77C:\Users\alber\Documents\Eines HTML i CSS\PEC1\dist\JonathanKite.ef06f994.png133448596702476057 0
-68C:\Users\alber\Documents\Eines HTML i CSS\PEC1\dist\max.97591b4d.png133448596704864541 0
-69C:\Users\alber\Documents\Eines HTML i CSS\PEC1\dist\oleg.5bd75067.png133448596702576151 0
-67C:\Users\alber\Documents\Eines HTML i CSS\PEC1\dist\US.8eed6022.png133448596704864541 0
+74C:\Users\alber\Documents\Eines HTML i CSS\PEC1\dist\BethBehrs.0536f76b.png133448602310294840 0
+73C:\Users\alber\Documents\Eines HTML i CSS\PEC1\dist\caroline.5b4da568.png133448602312512570 0
+73C:\Users\alber\Documents\Eines HTML i CSS\PEC1\dist\detallesCaroline.html133448602313638659 0
+69C:\Users\alber\Documents\Eines HTML i CSS\PEC1\dist\img2.9c9de359.png133448602312512570 0
+77C:\Users\alber\Documents\Eines HTML i CSS\PEC1\dist\JonathanKite.ef06f994.png133448602310294840 0
+68C:\Users\alber\Documents\Eines HTML i CSS\PEC1\dist\max.97591b4d.png133448602312512570 0
+69C:\Users\alber\Documents\Eines HTML i CSS\PEC1\dist\oleg.5bd75067.png133448602310234780 0
+67C:\Users\alber\Documents\Eines HTML i CSS\PEC1\dist\US.8eed6022.png133448602312512570 0
