@@ -134,6 +134,12 @@ article{
     margin-top: 30%;
 }
 
+.imgPubli2{
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+
 .enlace-img {
     display: block;
     text-decoration: none;
