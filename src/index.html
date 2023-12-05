@@ -10,6 +10,12 @@
     <include src="header.html"></include>
       
     <h1 class="title1">Portada</h1>
+    <div class="div-img">
+      <img
+      srcset="/img/img2-480w.jpg 480w, /img/img2-750w.jpg 750w"
+      sizes="(max-width: 750px) 480px, 750px"
+      src="/img/img2-750w.jpg" alt="Img2Image" class="clip-bevel"/>
+    </div>
     <article>
       <div class="container">
         <p>
@@ -25,17 +31,16 @@
       </div>
 
       <div class="div-img">
-        <img src="/img/portada.png" alt="PortadaImage" />
-      </div>
-      <div class="div-img">
-        <img src="/img/img2.png" alt="Img2Image" />
-      </div>
-            
-
+        <img
+        srcset="/img/imgtest.webp 150w, /img/imgtest.webp 200w"
+        sizes="(max-width: 200px) 150px, 200px"
+        src="/img/imgtest.webp"
+        alt="PortadaImage" class="img2" />
+      </div>  
+      
     </article>
 
     <include src="footer.html"></include>
-
         
   </body>
 </html>

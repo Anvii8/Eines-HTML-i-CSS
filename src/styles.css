@@ -69,7 +69,7 @@ article{
 }
 
 .div-img {
-    display: grid;
+    display: flex;
     justify-content: center;
     margin-top: 35px;
     margin-bottom: 35px;
@@ -179,3 +179,16 @@ img {
         width: 100%;
     }
 }
+
+.clip-bevel {
+    clip-path: polygon(20% 0%, 80% 0%, 100% 20%, 100% 80%, 80% 100%, 20% 100%, 0% 80%, 0% 20%);
+}
+
+.img2{
+    width: 15%;
+    height: 15%;
+    clip-path: circle(60% at 50% 50%);
+}
+
+
+
