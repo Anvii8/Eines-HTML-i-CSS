@@ -76,7 +76,8 @@ article{
 }
 
 .resum {
-    margin: 12px 0 0 0;
+    margin-bottom: -40px;
+    margin-top: 12px;
     letter-spacing: -0.02em;
     font-size: 17px;
     list-style: none;
@@ -190,5 +191,26 @@ img {
     clip-path: circle(60% at 50% 50%);
 }
 
+.svgTitle{
+    display: flex;
+}
+
+.mysvg{  
+    transform-origin: center center;
+    animation: rotate 3s linear infinite;
+}
+
+.text{
+    margin-bottom: -40px;
+}
+
+@keyframes rotate {
+    0% {
+        transform: translate(-55px, 67px) rotate(0deg);
+    }
+    100% {
+        transform: translate(-55px, 67px) rotate(360deg);
+    }
+}
 
 
