@@ -272,6 +272,19 @@ img {
 }
 
 @media only screen and (max-width: 599px) {
+
+    .title{
+        margin-top: 45px;
+    }
+
+    footer{
+        padding: 0;
+    }
+
+    header{
+        padding: 0;
+    }
+
     .nav1 {
         flex-direction: column;
         align-items: center;
@@ -293,6 +306,12 @@ img {
         width: 30%;
     }
 
+    .img2{
+        max-width: 100%;
+        height: auto;
+        width: 30%;
+    }
+
     .titulossecciones{
         width: 100%;
         text-align: center;
@@ -300,11 +319,17 @@ img {
 
     @keyframes rotate {
         0% {
-            transform: translate(-85px, 53px) rotate(0deg);
+            transform: translate(-100px, 53px) rotate(0deg);
         }
         100% {
-            transform: translate(-85px, 53px) rotate(360deg);
+            transform: translate(-100px, 53px) rotate(360deg);
         }
+    }
+
+    .logoFooter{
+        width: 30%;
+        max-width: 100%;
+        height: auto;
     }
 }
 
