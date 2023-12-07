@@ -315,25 +315,6 @@ img {
         width: 30%;
     }
 
-    .titulossecciones{
-        width: 100%;
-        text-align: center;
-    }
-
-    .mysvg{
-        transform: translate(0px, 0px);
-    }
-
-    
-    @keyframes rotate {
-        0% {
-            transform: rotate(0deg);
-        }
-        100% {
-            transform: rotate(360deg);
-        }
-    }
-
     .logoFooter{
         width: 30%;
         max-width: 100%;
@@ -372,6 +353,11 @@ img {
     display: flex;
 }
 
+.titulossecciones{
+    width: 100%;
+    text-align: center;
+}
+
 .mysvg{  
     transform-origin: center center;
     animation: rotate 3s linear infinite;
@@ -380,10 +366,10 @@ img {
 /* Definición de la animación de rotación */
 @keyframes rotate {
     0% {
-        transform: translate(-40px, 53px) rotate(0deg);
+        transform: translate(-80px, 53px) rotate(0deg);
     }
     100% {
-        transform: translate(-40px, 53px) rotate(360deg);
+        transform: translate(-80px, 53px) rotate(360deg);
     }
 }
 
