@@ -132,6 +132,14 @@ article{
     border-radius: 8px;
 }
 
+.imgPubli3{
+    max-width: 100%;
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin-top: 30%;
+}
+
 .enlace-img {
     display: block;
     text-decoration: none;
@@ -312,10 +320,11 @@ img {
         text-align: center;
     }
 
+    /*
     .mysvg{  
         transform: translate(-70px, 53px);
         transform: translate(-70px, 53px);
-    }
+    }*/
 
     .logoFooter{
         width: 30%;
@@ -324,11 +333,7 @@ img {
     }
 
     .clip-bevel {
-        width: 60%;
-    }
-
-    .img2{
-        width: 100%;
+        width: 90%;
     }
 
     .imgPubli{
@@ -348,9 +353,6 @@ img {
 }
 
 .img2{
-    max-width: 100%;
-    height: auto;
-    width: 15%;
     clip-path: circle(60% at 50% 50%);
 }
 
@@ -363,7 +365,7 @@ img {
     animation: rotate 3s linear infinite;
 }
 
-/* Definición de la animación de rotación */
+/* Definición de la animación de rotación 
 @keyframes rotate {
     0% {
         transform: translate(-40px, 53px) rotate(0deg);
@@ -371,7 +373,7 @@ img {
     100% {
         transform: translate(-40px, 53px) rotate(360deg);
     }
-}
+}*/
 
 /* Definición de la animación de pulsación */
 @keyframes pulseAnimation {
