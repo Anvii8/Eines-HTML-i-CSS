@@ -323,10 +323,10 @@ img {
     
     @keyframes rotate {
         0% {
-            transform: rotate(0deg);
+            transform: translate(0px, 0px) rotate(0deg);
         }
         100% {
-            transform: rotate(360deg);
+            transform: translate(0px, 0px) rotate(360deg);
         }
     }
 
@@ -341,12 +341,12 @@ img {
     }
 
     .img2{
-        width: 30%;
+        width: 40%;
     }
 
     .imgPubli{
-        width: 70%;
-        margin-left: 25%;
+        width: 80%;
+        margin-left: 10%;
     }
 
     .imgPubli2{
