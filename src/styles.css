@@ -54,6 +54,7 @@ article{
     width: 95%; 
     max-width: 850px; 
     margin: 0 auto;
+    padding: 0;
     font-size: 1.1em;
 }
 
@@ -188,8 +189,8 @@ article{
 
 .img3{
     max-width: 100%;
+    height: auto;
     width: 20%;
-    height: 20%;
     margin-left: 40px;
 }
 
@@ -309,12 +310,17 @@ img {
     .img2{
         max-width: 100%;
         height: auto;
-        width: 30%;
+        width: 50%;
     }
 
     .titulossecciones{
         width: 100%;
         text-align: center;
+    }
+
+    .mysvg{  
+        transform-origin: center center;
+        animation: rotate 3s linear infinite;
     }
 
     @keyframes rotate {
@@ -331,6 +337,7 @@ img {
         max-width: 100%;
         height: auto;
     }
+
 }
 
 .clip-bevel {
@@ -339,7 +346,7 @@ img {
 
 .img2{
     width: 15%;
-    height: 15%;
+    height: auto;
     clip-path: circle(60% at 50% 50%);
 }
 
