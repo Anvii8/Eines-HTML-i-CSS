@@ -12,15 +12,17 @@ header div{
 }
 
 .logoCabecera{
-    width: 5%;
-    height: 5%;
     clip-path: circle(60% at 50% 50%);
     margin-top: 20px;
+    margin-bottom: 20px;
     max-width: 100%;
+    height: auto;
+    width: 10%;
 }
 
 .title{
     font-size: 2.6em;
+    margin-top: 60px;
 }
 
 a{
@@ -63,8 +65,7 @@ article{
 }
 
 .resum {
-    margin-bottom: -40px;
-    margin-top: 12px;
+    margin-top: 20px;
     letter-spacing: -0.02em;
     font-size: 17px;
     list-style: none;
@@ -271,15 +272,39 @@ img {
 }
 
 @media only screen and (max-width: 599px) {
-    .listaheader {
+    .nav1 {
         flex-direction: column;
         align-items: center;
         text-align: center;
         margin-left: 40px;
     }
 
-    .listaheader a{
+    .nav1 a{
         width: 100%;
+    }
+    .titulossecciones{
+        width: 100%;
+        text-align: center;
+    }
+
+    .logoCabecera{
+        max-width: 100%;
+        height: auto;
+        width: 30%;
+    }
+
+    .titulossecciones{
+        width: 100%;
+        text-align: center;
+    }
+
+    @keyframes rotate {
+        0% {
+            transform: translate(-85px, 53px) rotate(0deg);
+        }
+        100% {
+            transform: translate(-85px, 53px) rotate(360deg);
+        }
     }
 }
 
@@ -302,16 +327,12 @@ img {
     animation: rotate 3s linear infinite;
 }
 
-.text{
-    margin-bottom: -40px;
-}
-
 @keyframes rotate {
     0% {
-        transform: translate(-55px, 67px) rotate(0deg);
+        transform: translate(-40px, 53px) rotate(0deg);
     }
     100% {
-        transform: translate(-55px, 67px) rotate(360deg);
+        transform: translate(-40px, 53px) rotate(360deg);
     }
 }
 
