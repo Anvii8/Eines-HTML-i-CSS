@@ -307,28 +307,17 @@ img {
         width: 30%;
     }
 
-    .img2{
-        max-width: 100%;
-        height: auto;
-        width: 50%;
-    }
-
     .titulossecciones{
         width: 100%;
         text-align: center;
     }
 
-    .mysvg{  
-        transform-origin: center center;
-        animation: rotate 3s linear infinite;
-    }
-
     @keyframes rotate {
         0% {
-            transform: translate(-100px, 53px) rotate(0deg);
+            transform: translate(-10px, 53px) rotate(0deg);
         }
         100% {
-            transform: translate(-100px, 53px) rotate(360deg);
+            transform: translate(-10px, 53px) rotate(360deg);
         }
     }
 
@@ -338,15 +327,32 @@ img {
         height: auto;
     }
 
+    .clip-bevel {
+        width: 40%;
+    }
+
+    .img2{
+        width: 70%;
+    }
+
+    .imgPubli{
+        width: 50%;
+    }
+
+    .imgPubli2{
+        width: 50%;
+    }
+
 }
 
 .clip-bevel {
-    clip-path: polygon(20% 0%, 80% 0%, 100% 20%, 100% 80%, 80% 100%, 20% 100%, 0% 80%, 0% 20%);
+    clip-path: polygon(20% 0%, 80% 0%, 100% 20%, 100% 80%, 80% 100%, 20% 100%, 00% 80%, 0% 20%);
 }
 
 .img2{
-    width: 15%;
+    max-width: 100%;
     height: auto;
+    width: 15%;
     clip-path: circle(60% at 50% 50%);
 }
 
