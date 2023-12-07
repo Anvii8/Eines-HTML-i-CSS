@@ -92,7 +92,8 @@ article{
 }
 
 .enlacePlataforma{
-    color: rgb(254, 105, 106);
+    color: rgb(255, 0, 0);
+    font-weight: bold;
 }
 .enlacePlataforma:hover{
     color: rgba(254, 105, 106, 0.5);
