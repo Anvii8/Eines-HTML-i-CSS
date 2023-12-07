@@ -312,13 +312,9 @@ img {
         text-align: center;
     }
 
-    @keyframes rotate {
-        0% {
-            transform: translate(-10px, 53px) rotate(0deg);
-        }
-        100% {
-            transform: translate(-10px, 53px) rotate(360deg);
-        }
+    .mysvg{  
+        transform: translate(-70px, 53px);
+        transform: translate(-70px, 53px);
     }
 
     .logoFooter{
@@ -328,19 +324,21 @@ img {
     }
 
     .clip-bevel {
-        width: 40%;
+        width: 60%;
     }
 
     .img2{
-        width: 70%;
+        width: 100%;
     }
 
     .imgPubli{
         width: 50%;
+        margin-left: 25%;
     }
 
     .imgPubli2{
         width: 50%;
+        margin-left: 25%;
     }
 
 }
@@ -365,6 +363,7 @@ img {
     animation: rotate 3s linear infinite;
 }
 
+/* Definición de la animación de rotación */
 @keyframes rotate {
     0% {
         transform: translate(-40px, 53px) rotate(0deg);
