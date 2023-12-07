@@ -320,11 +320,15 @@ img {
         text-align: center;
     }
 
-    /*
-    .mysvg{  
-        transform: translate(-70px, 53px);
-        transform: translate(-70px, 53px);
-    }*/
+    
+    @keyframes rotate {
+        0% {
+            transform: rotate(0deg);
+        }
+        100% {
+            transform: rotate(360deg);
+        }
+    }
 
     .logoFooter{
         width: 30%;
@@ -336,8 +340,12 @@ img {
         width: 90%;
     }
 
+    .img2{
+        width: 30%;
+    }
+
     .imgPubli{
-        width: 50%;
+        width: 70%;
         margin-left: 25%;
     }
 
@@ -365,7 +373,7 @@ img {
     animation: rotate 3s linear infinite;
 }
 
-/* Definición de la animación de rotación 
+/* Definición de la animación de rotación */
 @keyframes rotate {
     0% {
         transform: translate(-40px, 53px) rotate(0deg);
@@ -373,7 +381,7 @@ img {
     100% {
         transform: translate(-40px, 53px) rotate(360deg);
     }
-}*/
+}
 
 /* Definición de la animación de pulsación */
 @keyframes pulseAnimation {
