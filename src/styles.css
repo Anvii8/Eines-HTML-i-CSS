@@ -39,6 +39,7 @@ body{
 
 .textojustificado{
     text-align: justify;
+    max-width: 750px;
 }
 
 .title1{
@@ -286,10 +287,6 @@ img {
 }
 
 @media only screen and (max-width: 599px) {
-
-    .container{
-        max-width: 550px;
-    }
 
     .title{
         margin-top: 45px;
