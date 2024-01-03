@@ -96,7 +96,7 @@ article{
 }
 
 .enlacePlataforma{
-    color: rgb(255, 0, 0);
+    color: rgb(158, 0, 0);
     font-weight: bold;
 }
 .enlacePlataforma:hover{
@@ -343,6 +343,10 @@ img {
     .imgPubli2{
         width: 50%;
         margin-left: 25%;
+    }
+
+    .creditos{
+        gap: 20px;
     }
 
 }
