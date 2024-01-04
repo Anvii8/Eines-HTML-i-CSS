@@ -345,12 +345,8 @@ img {
         margin-left: 25%;
     }
 
-    .creditos{
-        gap: 20px;
-    }
-
-    .linksEnlaces{
-        gap: 20px;
+    .enlacePlataforma{
+        margin-bottom: 20px;
     }
 
 }
